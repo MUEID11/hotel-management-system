@@ -67,7 +67,7 @@ DB_PORT=3306
 DB_USER=root
 DB_PASSWORD=your_mysql_password
 DB_NAME=hotel_management
-JWT_SECRET=change_me_to_a_random_secret
+JWT_SECRET=create_your_secret
 JWT_EXPIRES_IN=24h
 CLIENT_URL=http://localhost:5173
 ```
